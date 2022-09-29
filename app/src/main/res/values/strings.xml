@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">C2_P29</string>
+    <string name="enter_amount">Enter_amount</string>
+    <string name="burger_king_double_whopper_burger_374_g">Burger King Double Whopper burger (374 g)</string>
+    <string name="num">Num</string>
+    <string name="burger_king_double_whopper_burger_894_cal">Burger King Double Whopper burger (894 cal)</string>
+    <string name="burger_king_triple_whopper_burger_1471cal">Burger King Triple Whopper burger (1471cal)</string>
+    <string name="burger_king_whopper_672_cal">Burger King Whopper (672 cal)</string>
+    <string name="burger_king_double_whopper_894_cal">Burger King Double Whopper (894 cal)</string>
+    <string name="burger_king_triple_whopper_1471_cal">Burger King Triple Whopper (1471 cal)</string>
+    <string name="chicken_nugget_59_cal">Chicken Nugget (59 cal)</string>
+    <string name="result_shows_here">Result shows here</string>
+</resources>
